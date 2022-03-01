@@ -11,13 +11,75 @@
     
 }
 .price{
-    color: rgb(214, 165, 29);
+    color: #0d3072;
 }
 .button-buy1{
-    background-image: linear-gradient(to bottom, #000000 0%, #1511d4 100%);
+    background-image: linear-gradient(to bottom, #000000 0%, #E86500);
     color: #fff;
     border: none;
     border-radius: 8px;
     padding: 9px 25px;
     cursor: poiner;
+}
+
+.button-buy2{
+    background-image: linear-gradient(to bottom, #000000 0%, #5c20ca);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: poiner;
+}
+.button-buy3{
+    background-image: linear-gradient(to bottom, #000000 0%, #C9B719);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: poiner;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+.cat1{
+    background-color: rgb(177, 24, 24); 
+}
+.cat2{
+    background-color: rgb(201, 183, 25);
+}
+.cat3{
+    background-color: rgb(30, 30, 204);
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 110px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgb(48, 46, 160);
+}
+.SUBSCRIBE{
+    
+        background-image: linear-gradient(to bottom, #41e20f  0%, #07132e);
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        padding: 9px 25px;
+        cursor: poiner;
+    
+}
+#subscribe{
+    height: 300PX;
+    background-color: antiquewhite;
+
+}
+footer{
+    text-align: center;
 }
