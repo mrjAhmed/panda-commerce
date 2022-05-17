@@ -8,6 +8,7 @@
 }
 .carousel-item{
     padding:20px 40px;
+    interval: 3000;
     
 }
 .price{
@@ -19,7 +20,7 @@
     border: none;
     border-radius: 8px;
     padding: 9px 25px;
-    cursor: poiner;
+    cursor: pointer;
 }
 
 .button-buy2{
@@ -28,7 +29,7 @@
     border: none;
     border-radius: 8px;
     padding: 9px 25px;
-    cursor: poiner;
+    cursor: pointer;
 }
 .button-buy3{
     background-image: linear-gradient(to bottom, #000000 0%, #C9B719);
@@ -36,7 +37,7 @@
     border: none;
     border-radius: 8px;
     padding: 9px 25px;
-    cursor: poiner;
+    cursor: pointer;
 }
 .cat1, .cat2, .cat3{
     padding: 10px 30px;
